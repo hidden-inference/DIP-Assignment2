@@ -1,3 +1,6 @@
+Link to repository: https://github.com/hidden-inference/DIP-Assignment2
+
+Uploading on the link and assumptions here as the size of notebooks and images are too large everything is uploaded on github
 ### Assumptions
 - In Q3 testing several different values was taking too long to run hence 3 per variable was chosen - because of this very clear artificial halo was not observed but almost halo like lines were visible and reported.
 - In Q4.3 the range parameter is selected adaptively as \(\sigma_r=2\sigma_{\text{noise}}\). Therefore, increasing NCR simultaneously increases the noise variance and broadens the range kernel. The measured breakdown threshold characterizes this particular adaptive parameterization and should not be interpreted as a universal threshold for bilateral filtering.
